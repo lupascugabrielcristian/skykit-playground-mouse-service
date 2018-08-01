@@ -1,0 +1,8 @@
+.editor-panel {
+	background-color: #636262;
+	position: absolute;
+    top: 5%;
+    height: 88vh;
+    width: 300px;
+    right: 3%;
+}

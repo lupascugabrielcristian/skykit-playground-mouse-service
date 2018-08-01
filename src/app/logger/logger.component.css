@@ -1,0 +1,19 @@
+.logger {
+	position: absolute;
+	width: 75%;
+	bottom: 4%;
+	padding: 2px;
+	background: antiquewhite;
+	max-height: 13vh;
+	overflow-y: auto;
+	margin-left: 7px;
+	border-color: green;
+	border-radius: 2px;
+}
+
+.logger p {
+	font-size: 13px;
+	text-align: left;
+	padding-left: 20px;
+	line-height: 8px;
+}
